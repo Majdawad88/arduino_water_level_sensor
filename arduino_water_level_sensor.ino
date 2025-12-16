@@ -1,3 +1,5 @@
+//git clone https://github.com/Majdawad88/arduino_water_level_sensor.git
+
 void setup() {
   Serial.begin(9600);
   pinMode(powerPin, OUTPUT);
